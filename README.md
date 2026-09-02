@@ -2,7 +2,7 @@
 
 # OMAR MASHHARAWI
 
-**Product Builder Â· Software Â· AI**
+**Product Builder / Software / AI**
 
 Building practical software systems at the intersection of business, automation, and AI.
 
@@ -14,10 +14,10 @@ Building practical software systems at the intersection of business, automation,
 
 ### Currently Building
 
-**CommitFlow** â€” a structured software development workflow for traceability, governance, and engineering quality.
+**CommitFlow** - a structured software development workflow for traceability, governance, and engineering quality.
 
 ```
-Proposal â†’ Decision â†’ Plan â†’ Implementation â†’ Tests â†’ Review â†’ Commit â†’ Status
+Proposal -> Decision -> Plan -> Implementation -> Tests -> Review -> Commit -> Status
 ```
 
 ---
@@ -34,7 +34,7 @@ Business Automation
 
 ### Technology
 
-`Python` Â· `SQLite` Â· `HTML / CSS / JS` Â· `Git` Â· `Cloudflare Pages`
+`Python` `SQLite` `HTML / CSS / JS` `Git` `Cloudflare Pages`
 
 ---
 
@@ -55,6 +55,6 @@ Commercial and sales experience in the steel industry, now applied to building s
 
 <div align="center">
 
-`Business` Ã— `Software` Ã— `AI`
+**Business / Software / AI**
 
 </div>
