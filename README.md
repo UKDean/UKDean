@@ -14,11 +14,18 @@ Building practical software systems at the intersection of business, automation,
 
 ### Currently Building
 
-**CommitFlow** - a structured software development workflow for traceability, governance, and engineering quality.
+**CommitFlow** - an enterprise AI assistant for Outlook that turns email commitments into trackable work states. Built under a decision-driven process for traceability, governance, and engineering quality.
 
 ```
 Proposal -> Decision -> Plan -> Implementation -> Tests -> Review -> Commit -> Status
 ```
+
+---
+
+### Shipped
+
+**Steel Section Calculator** - offline iOS app for structural steel section weights (EN 10365 / EN 10056). No ads, no login, nothing leaves the device.
+[App Store](https://apps.apple.com/us/app/steel-section-calculator/id6815107544) · [Web version](https://mashharawi.com/tools/steel-sections/)
 
 ---
 
@@ -34,7 +41,7 @@ Business Automation
 
 ### Technology
 
-`Python` `SQLite` `HTML / CSS / JS` `Git` `Cloudflare Pages`
+`Python` `Flutter / Dart` `Swift` `SQLite` `HTML / CSS / JS` `Git` `Cloudflare Pages`
 
 ---
 
